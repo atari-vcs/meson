@@ -44,7 +44,7 @@ Build-Depends: debhelper-compat (= 13),
   bison <!nocheck>,
 #  mono-mcs <!nocheck>,
 #  mono-devel <!nocheck>,
-  libwxgtk3.0-gtk3-dev <!nocheck>,
+# libwxgtk3.0-gtk3-dev <!nocheck>,
   python3-gi <!nocheck>,
   gtk-doc-tools <!nocheck>,
 # Rust is not needed to build Meson, only to run a part of its test

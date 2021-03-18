@@ -1,3 +1,9 @@
+meson (0.56.1-1~bpo10+1ata2) atari; urgency=medium
+
+  * also drop wxgtk b-d
+
+ -- Sjoerd Simons <sjoerd@collabora.com>  Thu, 18 Mar 2021 20:21:09 +0100
+
 meson (0.56.1-1~bpo10+1ata1) atari; urgency=medium
 
   * Reduce build-depends that or only used for testing
