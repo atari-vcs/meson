@@ -1,3 +1,9 @@
+meson (0.56.1-1~bpo10+1ata3) atari; urgency=medium
+
+  * Disable failing tests
+
+ -- Christopher Obbard <chris.obbard@collabora.com>  Mon, 26 Jul 2021 09:24:11 +0100
+
 meson (0.56.1-1~bpo10+1ata2) atari; urgency=medium
 
   * also drop wxgtk b-d
